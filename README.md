@@ -1,7 +1,7 @@
 # SCUM-Trader-Tool
 With that SCUM Tool you can add new Items easily to the Traders (Economyoverride.json). This Program starts in German Language. If you are a international Player, you can change the Language with a click on "Deutsch" to "English".
 # Installation
-Not needed. You just only need to download the SCUM Trader Tool. Once the download is complete, you must unpack the ZIP Archive (WinRar or other). The SCUM Trader Tool is allowed by the SCUM / Gamepires Developers.
+Not needed. You just only need to download the SCUM Trader Tool. Once the download is complete, you must unpack the ZIP Archive (WinRar or other). *The SCUM Trader Tool is allowed by the SCUM / Gamepires Developers.*
 
 **Download:**
 https://github.com/scumworld/SCUM-Trader-Tool/releases
