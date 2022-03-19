@@ -10,7 +10,7 @@ Not needed. You just only need to download the SCUM Trader Tool. Once the downlo
 https://github.com/scumworld/SCUM-Trader-Tool/releases
 
 **Virustotal:**
-https://www.virustotal.com/gui/file/caa344636f043cf8d5f1cf9246d2c4eb77b9a66a4497efebdf7d6008e15cedab
+https://www.virustotal.com/gui/file/797d9d6bf3318f56d1ae3c84a9b60a9cc1bbf5b2f9712201366e4d7dda665434
 # Screenshots
 ![English Version](https://github.com/scumworld/SCUM-Trader-Tool/blob/main/scum-trader-tool_english.PNG?raw=true)
 ![German Version](https://github.com/scumworld/SCUM-Trader-Tool/blob/main/scum-trader-tool_german.PNG?raw=true)
