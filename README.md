@@ -1,4 +1,4 @@
-# SCUM-Trader-Tool
+# SCUM Trader Tool
 With that SCUM Tool you can add new Items easily to the Traders (Economyoverride.json). This Program starts in German Language. If you are a international Player, you can change the Language with a click on "Deutsch" to "English".
 
 **Please read the Readme Textdocument (it's in the ZIP Archive) before you use our Tool!**
